@@ -25,14 +25,14 @@ This program focuses on learning how to design a System-on-Chip (SoC) starting f
 
 `$ sudo make install `
 
-![](https://github.com/tanviarora23/vsdbbcud4f/blob/master/Layout/Images/Screenshot%20(5367).png)
+![](https://github.com/tanviarora23/RISC-V-SoC-Tapeout_VSD/blob/main/1.png)
 
 # 2. iverilog
 ` $ sudo apt-get update `
 
 ` $ sudo apt-get install iverilog  `
 
-![](https://github.com/tanviarora23/vsdbbcud4f/blob/master/Layout/Images/Screenshot%20(5367).png)
+![](https://github.com/tanviarora23/RISC-V-SoC-Tapeout_VSD/blob/main/2.png)
 
 
 # 3. GTK Wave
