@@ -41,7 +41,7 @@ This program focuses on learning how to design a System-on-Chip (SoC) starting f
 
 ` $ sudo apt install gtkwave ` 
 
-![](https://github.com/tanviarora23/vsdbbcud4f/blob/master/Layout/Images/Screenshot%20(5367).png)
+![](https://github.com/tanviarora23/RISC-V-SoC-Tapeout_VSD/blob/main/3.png)
 
 #   Key Outcomes
 
