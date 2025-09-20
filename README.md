@@ -43,7 +43,19 @@ This program focuses on learning how to design a System-on-Chip (SoC) starting f
 
 ![](https://github.com/tanviarora23/vsdbbcud4f/blob/master/Layout/Images/Screenshot%20(5367).png)
 
+#   Key Outcomes
 
+a. Successfully installed and validated open-source EDA tools.
+
+b. Gained hands-on experience with environment setup for RTL design and synthesis.
+
+c. Configured the system to support upcoming RTL-to-GDSII flow experiments.
+
+# Acknowledgment
+
+I express my sincere gratitude to Kunal Ghosh and the VLSI System Design (VSD) team for giving me the opportunity to be part of the ongoing RISC-V SoC Tapeout Program.
+
+I would also like to acknowledge the contributions of RISC-V International, India Semiconductor Mission (ISM), VLSI Society of India (VSI), and Efabless, whose support has made this initiative possible.
 
 
 
